@@ -1,6 +1,6 @@
 ## World AWS
 
-This project was segmented into two parts:
+This project was segmented into 3 parts:
 - [Exercise 1](https://github.com/Three-Points/world-aws/wiki/Exercise-1)
 - [Exercise 2](https://github.com/Three-Points/world-aws/wiki/Exercise-2)
 - [Exercise 3](https://github.com/Three-Points/world-aws/wiki/Exercise-3)
